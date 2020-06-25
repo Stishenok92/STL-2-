@@ -1,0 +1,7 @@
+Minsk 56A 1 15 55
+Gomel 54B 0 20 13
+Brest 33B 0 15 45
+Mogilev 15C 1 06 45
+Minsk 73F 1 09 33
+Brest 1A 1 10 44
+Gomel 52B 1 18 13
